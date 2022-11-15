@@ -1,4 +1,4 @@
-# Validity Case Mangement System
+# Validity Case Management System
 
 This is a fork of Legal Case Management, the aim of this fork is to further develop this into a supported case management system that is fully transpartent and tamper proof. Providing accurate recording that can be assured.
 
